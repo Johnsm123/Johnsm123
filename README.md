@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm John Samuel Meshach A</h1>
 <h2 align="center">AWS Certified Cloud Practitioner</h2>
 
-https://github.com/Johnsm123/Johnsm123/issues/1#issue-3165268084
-
 <h3 align="center">A passionate full stack developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnsm123&label=Profile%20views&color=0e75b6&style=flat" alt="johnsm123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnsm123" alt="johnsm123" /></a> </p>
 
 - 🔭 I’m currently working on [Website Development](https://github.com/Johnsm123/Website.git)
 

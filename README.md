@@ -4,7 +4,6 @@
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/164e30f4-2b8f-4ea3-ae67-ec3b4f15f8f3/image.png)](https://www.credly.com/badges/5c90dc5d-ba6f-416a-bab2-56f694e1d87e/public_url)
 
-
 <h3 align="center">A passionate full stack developer</h3>
 
 

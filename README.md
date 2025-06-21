@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Samuel Meshach A</h1>
-<h2>AWS Certified Cloud Practitioner</h2>
+<h2 align="center">AWS Certified Cloud Practitioner</h2>
 
 <h3 align="center">A passionate full stack developer</h3>
 

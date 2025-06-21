@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm John Samuel Meshach A</h1>
 <h2 align="center">AWS Certified Cloud Practitioner</h2>
-<img src="https://github.com/Johnsm123/Johnsm123/issues/1#issue-3165268084">
+### ☁️ Cloud Certifications
+
+[![AWS Certified Cloud Practitioner](https://user-images.githubusercontent.com/134038673/296258177-c4c4dd0e-7f1e-4909-bd06-e34fa94e2b6f.png)](https://www.credly.com/badges/abcd-1234-efgh-5678/public_url)
+
 <h3 align="center">A passionate full stack developer</h3>
 
 

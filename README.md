@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm John Samuel Meshach A</h1>
+<h2>AWS Certified Cloud Practitioner</h2>
+
 <h3 align="center">A passionate full stack developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnsm123&label=Profile%20views&color=0e75b6&style=flat" alt="johnsm123" /> </p>
 

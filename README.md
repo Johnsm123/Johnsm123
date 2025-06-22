@@ -12,25 +12,6 @@
 </p>
 
 
-- 🔭 I’m currently working on **Online Auction System**
-
-- 🌱 I’m currently learning **Spring Boot and Django**
-
-- 👯 I’m looking to collaborate on **Industrial Community**
-
-- 🤝 I’m looking for help with **Student Community**
-
-- 👨‍💻 All of my projects are available at [https://flourishing-liger-d1fab0.netlify.app/](https://flourishing-liger-d1fab0.netlify.app/)
-
-- 💬 Ask me about **Java Expertise**
-
-- 📫 How to reach me **ajohnsm2020@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/john-samuel-meshach-a-178a08229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/john-samuel-meshach-a-178a08229/" height="30" width="40" /></a>
-</p>
-
 # 💫 About Me:
 Application Development and maintainance-Java developer
 
@@ -46,7 +27,7 @@ Application Development and maintainance-Java developer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsm123&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=johnsm123&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=johnsm123&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=johnsm123&icon=1&color=0)](https://visitcount.itsvg.in)

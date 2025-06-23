@@ -18,7 +18,7 @@ Application Development and maintainance-Java developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/john-samuel-meshach-a-178a08229/) 
-## Moving Logos [🔝](#--gifs-for-readme--)
+## Languages Known [🔝](#--gifs-for-readme--)
   
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -51,15 +51,16 @@ Application Development and maintainance-Java developer
 ![](https://github-readme-stats.vercel.app/api?username=johnsm123&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=johnsm123&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsm123&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-- Tech Stack floating
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
-<br><br>
 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=johnsm123&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=johnsm123&icon=1&color=0)](https://visitcount.itsvg.in)
+
+- Tech Stack floating
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+<br><br>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

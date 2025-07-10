@@ -3,13 +3,26 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/5c90dc5d-ba6f-416a-bab2-56f694e1d87e/public_url">
-    <img src="aws-badge.png" width="200"/>
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150"/>
   </a>
-  &nbsp;&nbsp;&nbsp; <!-- spacing between images -->
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/2a818e6d-5f81-4750-bb9e-80c0750b50cb/public_url">
-    <img src="github-foundations.png" width="200"/>
+    <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="150"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/79d21b0e-c1fc-48e4-a9c8-d099f750989c/public_url">
+    <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="150"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/a02624bc-1da5-46e2-bdcb-db3474137285/public_url">
+    <img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="150"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/a02624bc-1da5-46e2-bdcb-db3474137285/public_url">
+    <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="150"/>
   </a>
 </p>
+
 
 
 <h1 align="center">Hi there, I'm John Samuel Meshach 👋</h1>
@@ -88,11 +101,3 @@ I’m currently working in **Application Development and Maintenance** as a **Ja
 ![](https://github-contributor-stats.vercel.app/api?username=johnsm123&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
 ---
-
-## 📍 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=johnsm123&icon=1&color=0)](https://visitcount.itsvg.in)
-
----
-
-_Thank you for visiting my profile! Let's connect and collaborate on exciting projects._

@@ -84,15 +84,19 @@ I’m currently working in **Application Development and Maintenance** as a **Ja
 - ✅ **ROS2 Project** – Designed an autonomous rover-drone hybrid system using SLAM.
 - ✅ **QuickCart E-Commerce and Online Auction System** – Full-stack Java-based project developed using Agile and Spring Boot.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/Johnsm123">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Johnsm123&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Johnsm123&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Johnsm123&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Johnsm123&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Johnsm123&theme=github_dark" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Johnsm123&theme=github-dark"/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnsm123&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" width="400px" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=johnsm123&theme=cobalt&hide_border=false" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsm123&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400px" />
-</p>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ---
 

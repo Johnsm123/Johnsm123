@@ -45,7 +45,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
-## 💫 About Me | <a href="https://john-portfolio-sigma.vercel.app/" target="_blank">My Portfolio 🌐</a>
+## 💫 About Me | <a href="https://johnsamuelmeshachportfolio-e8cxghajdsbwa2a0.southindia-01.azurewebsites.net/" target="_blank">My Portfolio 🌐</a>
 
 <img align="right" alt="Cognizant Professional Developer" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
